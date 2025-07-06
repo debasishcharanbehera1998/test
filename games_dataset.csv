@@ -1,0 +1,301 @@
+game_id,game_title,genre,developer,publisher,release_date,platform,price_usd,rating,number_of_players
+1,Galaxy Conquest,Adventure,Bethesda,Ubisoft,2022-04-11,All Platforms,22.58,7.5,73344
+2,Phantom Ops,Simulation,Activision,Bethesda,2019-04-08,Nintendo Switch,46.57,9.8,316282
+3,Legends of Arcadia,Sports,Valve,Capcom,2021-05-10,PC,47.03,8.9,190374
+4,Dragon Age: Resurgence,Simulation,Valve,Activision,2019-08-25,Mobile,51.87,8.4,52638
+5,Infinite Odyssey,FPS,Square Enix,Valve,2022-05-07,Xbox Series X,56.3,6.6,83249
+6,Starborne,Battle Royale,Bethesda,Riot Games,2023-08-03,Nintendo Switch,68.79,6.6,373009
+7,Starborne,Sports,Riot Games,Ubisoft,2022-10-03,Nintendo Switch,45.82,6.2,7719
+8,Titanfall: Frontiers,Simulation,Ubisoft,Ubisoft,2023-01-18,Nintendo Switch,36.15,9.5,158962
+9,Titanfall: Frontiers,Simulation,Valve,Square Enix,2018-12-05,Nintendo Switch,59.76,8.4,475452
+10,Specter Saga,Strategy,Ubisoft,Activision,2022-10-12,All Platforms,33.54,8.8,434725
+11,Specter Saga,Simulation,Valve,Square Enix,2018-09-12,Nintendo Switch,41.95,6.1,47534
+12,Legends of Arcadia,MMORPG,Riot Games,Square Enix,2021-06-19,Mobile,23.92,9.9,97241
+13,ShadowRealm,MMORPG,Activision,Riot Games,2019-03-06,Xbox Series X,21.27,9.3,417003
+14,Titanfall: Frontiers,Battle Royale,Electronic Arts,Epic Games,2023-08-02,All Platforms,68.13,6.8,131209
+15,Apex Legends 2,MMORPG,Activision,Activision,2019-09-12,Nintendo Switch,61.8,6.7,447061
+16,Specter Saga,Battle Royale,Valve,Electronic Arts,2018-06-19,PS5,54.8,6.7,194004
+17,Starborne,Battle Royale,Capcom,Capcom,2023-11-05,PS5,40.45,7.2,97124
+18,Infinite Odyssey,FPS,Electronic Arts,Square Enix,2019-07-12,Xbox Series X,28.66,8.1,96659
+19,Mystic Wars,Strategy,Electronic Arts,Bethesda,2022-01-27,PC,27.82,7.7,169134
+20,Infinite Odyssey,Adventure,Ubisoft,Blizzard,2020-05-27,PC,32.51,7.2,80713
+21,Specter Saga,MOBA,Bethesda,Bethesda,2018-05-17,All Platforms,47.46,8.4,223335
+22,BattleForge,Battle Royale,Ubisoft,Riot Games,2019-10-17,All Platforms,55.73,6.6,493972
+23,Galaxy Conquest,RPG,Ubisoft,Riot Games,2018-04-10,All Platforms,53.01,7.2,458677
+24,ElderQuest,Adventure,Capcom,Valve,2018-06-25,PC,34.0,7.5,80418
+25,Phantom Ops,Sports,Activision,Epic Games,2023-07-23,PS5,67.74,7.8,464888
+26,Specter Saga,MMORPG,Activision,Capcom,2023-09-17,PC,56.89,9.1,133232
+27,ElderQuest,MOBA,Blizzard,Square Enix,2020-01-15,Mobile,47.72,6.8,433048
+28,Quantum Rift,RPG,Valve,Bethesda,2022-06-12,Nintendo Switch,50.59,8.1,168038
+29,Valorant,Adventure,Capcom,Blizzard,2018-07-16,All Platforms,40.98,8.4,470761
+30,Neon Riders,FPS,Blizzard,Riot Games,2019-03-24,PS5,32.39,6.2,411203
+31,Starborne,Sports,Riot Games,Riot Games,2021-08-19,Xbox Series X,37.8,8.4,173383
+32,ChronoShift,MOBA,Valve,Epic Games,2018-05-08,Xbox Series X,57.89,6.7,298719
+33,Warfront Legends,Strategy,Valve,Blizzard,2018-09-21,Nintendo Switch,20.72,6.3,330996
+34,BattleForge,FPS,Square Enix,Blizzard,2020-05-17,PS5,25.8,9.8,263722
+35,ShadowRealm,RPG,Square Enix,Epic Games,2022-09-23,PC,22.3,9.9,137079
+36,Starborne,MOBA,Epic Games,Riot Games,2021-10-05,PC,22.04,9.2,207053
+37,Warfront Legends,FPS,Epic Games,Capcom,2023-04-22,Mobile,62.77,7.2,81242
+38,Infinite Odyssey,Sports,Ubisoft,Activision,2023-09-16,Mobile,55.18,6.4,183589
+39,ChronoShift,Strategy,Riot Games,Activision,2019-05-06,PC,43.71,8.7,34257
+40,Specter Saga,FPS,Electronic Arts,Epic Games,2021-10-08,Xbox Series X,24.89,7.8,485488
+41,Galaxy Conquest,Simulation,Electronic Arts,Blizzard,2023-09-25,All Platforms,44.58,6.5,440423
+42,ShadowRealm,Strategy,Square Enix,Square Enix,2019-03-18,Xbox Series X,43.67,8.0,149353
+43,CyberStrike,RPG,Square Enix,Epic Games,2022-04-25,Mobile,28.66,6.1,328390
+44,ShadowRealm,Sports,Square Enix,Capcom,2019-09-12,Nintendo Switch,41.69,9.6,268579
+45,CyberStrike,MMORPG,Capcom,Epic Games,2023-10-15,PC,39.93,7.0,234947
+46,Quantum Rift,MMORPG,Bethesda,Ubisoft,2020-11-27,Mobile,50.79,8.7,236758
+47,CyberStrike,MMORPG,Epic Games,Bethesda,2020-06-26,Mobile,51.75,7.2,96357
+48,ShadowRealm,MOBA,Capcom,Blizzard,2020-02-09,All Platforms,22.27,8.1,162732
+49,Mystic Wars,RPG,Activision,Valve,2023-07-13,PC,38.73,8.2,403300
+50,Neon Riders,Sports,Electronic Arts,Valve,2020-02-26,All Platforms,51.29,6.7,480413
+51,Phantom Ops,Strategy,Valve,Blizzard,2021-11-15,PC,45.16,9.9,411723
+52,Specter Saga,MOBA,Epic Games,Capcom,2022-02-10,All Platforms,62.82,9.1,208667
+53,Specter Saga,RPG,Blizzard,Ubisoft,2019-11-16,Xbox Series X,52.93,9.8,88807
+54,Starborne,Simulation,Activision,Ubisoft,2019-01-07,Nintendo Switch,28.15,9.6,443755
+55,ElderQuest,Sports,Epic Games,Riot Games,2023-11-17,Nintendo Switch,23.53,8.4,383097
+56,Titanfall: Frontiers,MMORPG,Capcom,Bethesda,2020-11-23,PC,52.12,9.7,143563
+57,Infinite Odyssey,FPS,Riot Games,Activision,2020-12-26,PS5,21.33,6.4,263778
+58,Apex Legends 2,Sports,Valve,Electronic Arts,2018-11-21,Mobile,49.29,6.8,186264
+59,Quantum Rift,Battle Royale,Epic Games,Capcom,2022-03-22,Mobile,67.01,6.2,478611
+60,Valorant,RPG,Bethesda,Electronic Arts,2021-06-26,PC,48.77,7.3,390941
+61,ElderQuest,Adventure,Square Enix,Electronic Arts,2019-08-07,All Platforms,39.41,7.6,331032
+62,Apex Legends 2,Simulation,Square Enix,Blizzard,2018-09-14,PS5,52.16,7.1,78609
+63,ShadowRealm,Sports,Valve,Valve,2018-07-15,Xbox Series X,42.91,9.3,276221
+64,Vortex Arena,Adventure,Capcom,Valve,2023-04-21,All Platforms,47.28,7.4,253512
+65,Phantom Ops,Battle Royale,Square Enix,Activision,2019-06-07,All Platforms,67.07,7.1,258973
+66,Starborne,Strategy,Epic Games,Blizzard,2023-05-09,PC,39.31,8.2,288097
+67,Legends of Arcadia,FPS,Blizzard,Electronic Arts,2021-08-19,PC,68.06,6.6,475135
+68,Legends of Arcadia,Adventure,Electronic Arts,Square Enix,2018-01-16,Mobile,65.27,9.2,381826
+69,CyberStrike,RPG,Electronic Arts,Valve,2018-01-08,PC,29.79,6.3,335033
+70,BattleForge,MMORPG,Activision,Capcom,2022-11-18,PC,23.47,9.9,159893
+71,BattleForge,Battle Royale,Ubisoft,Capcom,2021-06-27,PC,25.04,9.1,435783
+72,Mystic Wars,FPS,Riot Games,Riot Games,2018-10-23,Mobile,20.91,6.8,120374
+73,Titanfall: Frontiers,Simulation,Valve,Epic Games,2021-12-18,Xbox Series X,24.72,6.0,29860
+74,Galaxy Conquest,MMORPG,Activision,Square Enix,2019-02-20,Xbox Series X,54.15,9.3,157267
+75,Quantum Rift,Sports,Ubisoft,Valve,2020-05-07,PC,23.56,8.8,82475
+76,Legends of Arcadia,Adventure,Capcom,Ubisoft,2018-01-03,Mobile,35.95,8.9,489090
+77,Neon Riders,FPS,Bethesda,Valve,2022-07-18,Xbox Series X,62.24,9.1,354410
+78,Warfront Legends,MOBA,Bethesda,Riot Games,2019-01-27,All Platforms,21.16,6.3,157499
+79,CyberStrike,Strategy,Riot Games,Capcom,2021-04-10,Xbox Series X,60.72,7.4,367876
+80,Neon Riders,Strategy,Square Enix,Electronic Arts,2023-09-07,Xbox Series X,34.09,6.5,294227
+81,Mystic Wars,Battle Royale,Epic Games,Ubisoft,2019-01-17,Mobile,25.91,9.5,223118
+82,ChronoShift,Simulation,Activision,Blizzard,2018-04-14,All Platforms,54.84,8.5,324516
+83,CyberStrike,Battle Royale,Activision,Bethesda,2021-06-24,Mobile,51.45,7.3,128786
+84,ElderQuest,MOBA,Valve,Electronic Arts,2020-06-03,PC,63.87,6.3,442280
+85,BattleForge,RPG,Valve,Bethesda,2019-12-12,Nintendo Switch,56.75,7.2,12813
+86,BattleForge,Simulation,Bethesda,Square Enix,2018-08-13,Xbox Series X,60.17,7.3,36598
+87,Valorant,RPG,Bethesda,Epic Games,2022-01-02,Nintendo Switch,34.1,8.9,262951
+88,Apex Legends 2,Simulation,Blizzard,Ubisoft,2023-07-03,Mobile,28.87,8.6,98106
+89,Starborne,Simulation,Blizzard,Activision,2021-01-05,Mobile,57.53,9.5,294226
+90,ShadowRealm,MOBA,Square Enix,Ubisoft,2019-07-11,Mobile,60.34,7.9,296385
+91,Titanfall: Frontiers,Sports,Blizzard,Valve,2019-03-08,Nintendo Switch,69.53,6.5,232286
+92,Quantum Rift,MOBA,Epic Games,Capcom,2020-11-26,Mobile,40.63,8.9,442785
+93,Dragon Age: Resurgence,Simulation,Epic Games,Valve,2020-08-23,PC,38.6,9.0,16745
+94,Phantom Ops,FPS,Activision,Valve,2022-03-23,Mobile,58.82,8.2,293173
+95,ElderQuest,RPG,Electronic Arts,Square Enix,2023-01-12,PS5,37.04,9.1,149097
+96,Legends of Arcadia,MOBA,Epic Games,Electronic Arts,2022-08-07,Nintendo Switch,66.54,8.0,237732
+97,Vortex Arena,Sports,Ubisoft,Activision,2018-03-15,PS5,62.92,8.1,390539
+98,Phantom Ops,Adventure,Bethesda,Activision,2018-02-24,Mobile,41.45,7.7,150360
+99,Phantom Ops,Battle Royale,Valve,Valve,2022-01-17,PC,57.54,6.1,94186
+100,Starborne,Simulation,Blizzard,Bethesda,2023-03-04,Xbox Series X,57.73,6.4,404756
+101,Galaxy Conquest,Adventure,Activision,Square Enix,2022-02-22,All Platforms,25.16,6.1,364912
+102,Valorant,Strategy,Riot Games,Valve,2023-02-25,All Platforms,65.13,8.5,218030
+103,BattleForge,MMORPG,Valve,Epic Games,2023-06-13,Mobile,45.26,7.3,204950
+104,Warfront Legends,Sports,Ubisoft,Capcom,2021-12-18,PC,61.32,8.0,46846
+105,Apex Legends 2,MMORPG,Blizzard,Electronic Arts,2023-01-01,Nintendo Switch,36.0,9.6,499364
+106,Dragon Age: Resurgence,Sports,Ubisoft,Blizzard,2020-02-16,PS5,64.78,7.0,343076
+107,Starborne,FPS,Bethesda,Epic Games,2023-06-13,PS5,39.46,7.6,153554
+108,Valorant,Battle Royale,Bethesda,Bethesda,2023-03-10,PS5,20.54,9.0,290555
+109,Warfront Legends,Adventure,Square Enix,Ubisoft,2023-04-12,Nintendo Switch,65.27,6.9,449191
+110,Dragon Age: Resurgence,RPG,Activision,Ubisoft,2018-01-02,All Platforms,24.56,6.3,458761
+111,BattleForge,Sports,Valve,Epic Games,2020-08-23,PC,35.97,7.2,345941
+112,Quantum Rift,RPG,Capcom,Valve,2020-07-03,Nintendo Switch,67.5,6.6,319451
+113,BattleForge,Battle Royale,Capcom,Blizzard,2022-07-10,PS5,67.53,9.7,401309
+114,Starborne,Simulation,Valve,Riot Games,2021-03-02,Mobile,48.67,9.2,475474
+115,BattleForge,Strategy,Riot Games,Riot Games,2023-10-27,Xbox Series X,51.59,8.5,289186
+116,ChronoShift,Adventure,Activision,Bethesda,2019-10-23,Nintendo Switch,42.42,9.5,57930
+117,ChronoShift,Battle Royale,Ubisoft,Valve,2021-03-13,Nintendo Switch,34.66,9.2,253656
+118,Starborne,Battle Royale,Riot Games,Activision,2021-02-13,PC,36.43,6.7,442629
+119,Quantum Rift,FPS,Electronic Arts,Activision,2020-12-18,PC,53.63,9.6,249459
+120,Quantum Rift,MMORPG,Valve,Electronic Arts,2021-01-03,Nintendo Switch,57.62,8.2,229695
+121,Mystic Wars,Strategy,Ubisoft,Blizzard,2023-07-27,PS5,59.58,9.2,365027
+122,Starborne,Adventure,Capcom,Blizzard,2023-07-07,Xbox Series X,59.48,9.6,300900
+123,Warfront Legends,Simulation,Epic Games,Ubisoft,2018-12-14,PC,24.56,7.3,58268
+124,Infinite Odyssey,Simulation,Square Enix,Square Enix,2023-02-20,PS5,44.72,6.4,437430
+125,Legends of Arcadia,MOBA,Capcom,Bethesda,2023-07-17,Mobile,22.88,6.9,217943
+126,CyberStrike,Battle Royale,Activision,Riot Games,2020-08-21,PC,47.48,7.7,263916
+127,Galaxy Conquest,Sports,Bethesda,Bethesda,2023-01-12,PS5,42.08,9.3,426818
+128,BattleForge,FPS,Epic Games,Activision,2018-09-25,PS5,64.39,9.4,189403
+129,Warfront Legends,Strategy,Square Enix,Activision,2019-07-16,Xbox Series X,37.55,6.0,53901
+130,Valorant,Simulation,Square Enix,Epic Games,2020-03-24,Xbox Series X,25.85,8.0,367130
+131,ElderQuest,Adventure,Electronic Arts,Electronic Arts,2019-08-12,Mobile,27.15,7.7,199488
+132,Mystic Wars,MOBA,Electronic Arts,Blizzard,2020-07-15,PS5,58.08,6.9,168268
+133,BattleForge,Adventure,Blizzard,Capcom,2022-11-25,All Platforms,50.91,6.5,395530
+134,BattleForge,FPS,Capcom,Bethesda,2021-08-10,PS5,25.06,7.4,272770
+135,Valorant,Sports,Capcom,Activision,2022-06-25,Xbox Series X,24.21,9.8,143496
+136,ChronoShift,MOBA,Capcom,Square Enix,2023-09-07,All Platforms,55.05,7.3,280001
+137,Specter Saga,MOBA,Blizzard,Ubisoft,2019-05-20,PC,23.64,8.1,246531
+138,Legends of Arcadia,MMORPG,Riot Games,Riot Games,2023-03-05,PC,61.09,8.8,251693
+139,Starborne,Strategy,Square Enix,Electronic Arts,2021-03-01,Nintendo Switch,55.31,7.5,418198
+140,Phantom Ops,MOBA,Epic Games,Square Enix,2020-01-17,Xbox Series X,24.07,9.9,475177
+141,Warfront Legends,MMORPG,Activision,Electronic Arts,2021-12-03,Nintendo Switch,24.24,9.8,400196
+142,Infinite Odyssey,MMORPG,Square Enix,Epic Games,2018-08-13,All Platforms,69.33,7.0,184362
+143,Dragon Age: Resurgence,FPS,Electronic Arts,Capcom,2021-02-14,Xbox Series X,38.71,8.0,31431
+144,CyberStrike,RPG,Ubisoft,Activision,2018-03-24,Mobile,38.53,7.2,352120
+145,Infinite Odyssey,Adventure,Bethesda,Ubisoft,2021-08-18,PS5,60.64,7.1,243360
+146,Neon Riders,Sports,Blizzard,Square Enix,2018-08-04,Mobile,67.36,6.1,349855
+147,Quantum Rift,Adventure,Valve,Electronic Arts,2019-11-18,All Platforms,69.3,8.4,31385
+148,Dragon Age: Resurgence,MOBA,Ubisoft,Blizzard,2023-04-05,Xbox Series X,57.67,8.0,436374
+149,Infinite Odyssey,Sports,Activision,Epic Games,2023-04-25,All Platforms,38.81,6.2,421235
+150,Starborne,Simulation,Capcom,Blizzard,2022-05-16,PS5,24.18,7.1,285783
+151,Mystic Wars,RPG,Electronic Arts,Ubisoft,2023-06-01,PC,58.86,9.6,90530
+152,Warfront Legends,Simulation,Electronic Arts,Square Enix,2020-05-21,PC,47.92,7.0,235983
+153,Titanfall: Frontiers,Simulation,Electronic Arts,Epic Games,2021-07-14,All Platforms,41.21,6.6,288707
+154,Warfront Legends,Strategy,Capcom,Square Enix,2022-02-15,Nintendo Switch,65.32,8.0,437557
+155,Vortex Arena,Adventure,Valve,Activision,2020-07-09,Xbox Series X,25.56,9.9,382816
+156,Infinite Odyssey,FPS,Blizzard,Valve,2020-10-15,Xbox Series X,44.63,7.0,403992
+157,Phantom Ops,Simulation,Ubisoft,Epic Games,2018-07-17,PC,20.57,8.7,434660
+158,Apex Legends 2,MOBA,Capcom,Blizzard,2023-01-25,Mobile,43.43,9.0,467132
+159,Infinite Odyssey,RPG,Activision,Ubisoft,2019-07-24,PS5,22.82,7.0,406927
+160,Valorant,Battle Royale,Blizzard,Capcom,2019-05-04,Mobile,25.94,8.9,210390
+161,Apex Legends 2,Simulation,Activision,Activision,2022-03-12,Mobile,25.88,7.5,350114
+162,Mystic Wars,RPG,Blizzard,Valve,2019-03-27,All Platforms,52.46,8.5,248373
+163,BattleForge,Sports,Valve,Capcom,2021-04-26,PC,57.3,8.5,352697
+164,Quantum Rift,Adventure,Bethesda,Riot Games,2019-12-05,PC,49.17,8.1,166779
+165,Quantum Rift,MMORPG,Activision,Activision,2022-02-05,PC,68.11,6.4,175182
+166,CyberStrike,Strategy,Capcom,Ubisoft,2019-02-11,All Platforms,38.74,9.3,197860
+167,Valorant,RPG,Blizzard,Electronic Arts,2021-01-06,Nintendo Switch,34.29,7.3,87879
+168,Dragon Age: Resurgence,MOBA,Electronic Arts,Epic Games,2018-05-07,Mobile,63.43,6.7,437043
+169,Phantom Ops,MOBA,Square Enix,Square Enix,2022-04-24,All Platforms,31.18,6.2,243260
+170,Infinite Odyssey,RPG,Electronic Arts,Ubisoft,2018-11-14,Xbox Series X,68.16,8.4,403871
+171,Infinite Odyssey,MOBA,Riot Games,Epic Games,2018-10-24,PS5,20.61,8.7,312003
+172,ChronoShift,Adventure,Bethesda,Capcom,2018-02-11,Nintendo Switch,68.49,6.1,451841
+173,Apex Legends 2,MOBA,Bethesda,Square Enix,2020-03-13,Xbox Series X,22.16,8.0,319242
+174,Quantum Rift,MMORPG,Electronic Arts,Bethesda,2023-07-02,Mobile,64.56,6.9,151323
+175,Apex Legends 2,MOBA,Ubisoft,Blizzard,2020-07-25,PC,46.39,8.6,127413
+176,ChronoShift,MMORPG,Valve,Riot Games,2023-12-07,Mobile,69.65,6.7,267670
+177,Starborne,Simulation,Activision,Activision,2018-04-20,All Platforms,23.69,8.8,335904
+178,Apex Legends 2,FPS,Capcom,Ubisoft,2022-05-04,PS5,47.69,7.5,52837
+179,Legends of Arcadia,Adventure,Bethesda,Riot Games,2023-05-27,All Platforms,68.47,9.7,265550
+180,ShadowRealm,FPS,Electronic Arts,Electronic Arts,2021-06-08,Nintendo Switch,46.15,6.6,278680
+181,Valorant,Simulation,Electronic Arts,Epic Games,2021-09-20,Nintendo Switch,51.47,7.4,33541
+182,Valorant,Adventure,Valve,Epic Games,2019-02-22,PS5,54.79,6.5,84083
+183,Specter Saga,RPG,Valve,Ubisoft,2023-05-21,Xbox Series X,42.73,9.7,449243
+184,Vortex Arena,RPG,Epic Games,Valve,2022-12-19,Xbox Series X,51.38,9.5,39531
+185,Legends of Arcadia,MMORPG,Epic Games,Valve,2020-03-13,Nintendo Switch,49.22,7.0,275856
+186,Vortex Arena,Simulation,Ubisoft,Bethesda,2018-04-14,Nintendo Switch,65.06,8.6,371245
+187,BattleForge,MMORPG,Ubisoft,Blizzard,2019-10-10,PC,22.27,9.3,332599
+188,Galaxy Conquest,Strategy,Riot Games,Square Enix,2021-06-11,Xbox Series X,34.05,8.2,79744
+189,CyberStrike,MOBA,Ubisoft,Electronic Arts,2020-12-02,PS5,67.52,8.1,257859
+190,Infinite Odyssey,Battle Royale,Blizzard,Riot Games,2020-08-25,Xbox Series X,64.51,7.0,134749
+191,Mystic Wars,Strategy,Valve,Valve,2018-01-26,PC,42.78,6.4,272253
+192,Galaxy Conquest,MOBA,Capcom,Bethesda,2023-10-09,All Platforms,51.01,9.6,316412
+193,Valorant,Adventure,Blizzard,Bethesda,2021-08-17,Nintendo Switch,33.87,9.6,236809
+194,Galaxy Conquest,MMORPG,Activision,Ubisoft,2022-11-26,Nintendo Switch,29.41,8.5,321759
+195,Vortex Arena,Adventure,Electronic Arts,Electronic Arts,2020-07-03,PC,43.18,7.4,87503
+196,Titanfall: Frontiers,Adventure,Ubisoft,Capcom,2018-01-24,PS5,37.67,7.4,259346
+197,Galaxy Conquest,MOBA,Electronic Arts,Square Enix,2022-02-06,Nintendo Switch,49.18,8.9,427975
+198,Titanfall: Frontiers,Simulation,Bethesda,Blizzard,2023-03-05,Mobile,23.89,9.6,90708
+199,Galaxy Conquest,MOBA,Riot Games,Activision,2021-01-05,Nintendo Switch,68.72,9.5,196184
+200,Dragon Age: Resurgence,Sports,Bethesda,Ubisoft,2023-09-22,Mobile,69.31,9.1,107471
+201,ShadowRealm,RPG,Riot Games,Square Enix,2020-08-15,PC,54.91,8.6,259225
+202,CyberStrike,RPG,Epic Games,Activision,2022-02-23,PC,46.8,6.3,162661
+203,Mystic Wars,Strategy,Electronic Arts,Activision,2022-09-17,Nintendo Switch,35.48,6.6,166087
+204,Legends of Arcadia,RPG,Riot Games,Electronic Arts,2022-07-09,Xbox Series X,60.69,9.6,165081
+205,ShadowRealm,MOBA,Square Enix,Electronic Arts,2020-09-03,Mobile,54.24,8.4,350453
+206,Mystic Wars,MMORPG,Blizzard,Riot Games,2020-06-20,PS5,28.13,6.0,393590
+207,Specter Saga,MOBA,Riot Games,Bethesda,2023-06-26,Nintendo Switch,65.55,6.4,198118
+208,Mystic Wars,MOBA,Riot Games,Square Enix,2019-11-17,PS5,61.13,8.7,373805
+209,CyberStrike,Battle Royale,Blizzard,Ubisoft,2023-04-27,Nintendo Switch,67.49,6.0,162215
+210,Infinite Odyssey,MMORPG,Electronic Arts,Epic Games,2021-10-10,Xbox Series X,56.29,6.6,11154
+211,Titanfall: Frontiers,Sports,Electronic Arts,Ubisoft,2018-10-03,Xbox Series X,50.67,8.2,157876
+212,Galaxy Conquest,RPG,Blizzard,Riot Games,2022-02-18,Xbox Series X,40.91,8.8,439904
+213,Specter Saga,MMORPG,Bethesda,Blizzard,2019-07-18,All Platforms,66.64,8.6,69288
+214,Titanfall: Frontiers,RPG,Square Enix,Bethesda,2018-05-17,Xbox Series X,63.3,6.9,56195
+215,Dragon Age: Resurgence,Strategy,Capcom,Epic Games,2019-11-24,PC,22.26,8.8,287725
+216,Valorant,MMORPG,Activision,Valve,2023-06-03,PC,21.32,6.9,450864
+217,Neon Riders,RPG,Square Enix,Blizzard,2020-02-03,All Platforms,38.82,7.3,297231
+218,Quantum Rift,Sports,Electronic Arts,Electronic Arts,2022-05-06,Mobile,60.53,9.0,186002
+219,Valorant,FPS,Capcom,Activision,2023-10-13,PS5,69.36,8.6,169053
+220,Starborne,Adventure,Epic Games,Valve,2018-04-24,Nintendo Switch,27.52,9.4,74298
+221,Neon Riders,Adventure,Ubisoft,Ubisoft,2018-09-15,Nintendo Switch,49.71,8.6,313311
+222,Quantum Rift,Sports,Riot Games,Ubisoft,2018-06-25,All Platforms,39.04,8.3,211376
+223,Specter Saga,Battle Royale,Blizzard,Electronic Arts,2018-02-09,PC,68.5,6.4,441624
+224,Valorant,FPS,Blizzard,Riot Games,2018-01-04,Nintendo Switch,62.11,7.5,44499
+225,ChronoShift,Strategy,Riot Games,Square Enix,2019-05-14,PC,61.92,7.1,392960
+226,ChronoShift,Sports,Ubisoft,Valve,2023-09-05,Mobile,43.43,7.0,450485
+227,ElderQuest,Adventure,Activision,Valve,2022-06-02,PS5,40.74,9.9,174631
+228,Starborne,Adventure,Ubisoft,Capcom,2020-10-11,Mobile,33.67,7.6,250198
+229,Mystic Wars,Adventure,Capcom,Blizzard,2020-12-09,All Platforms,22.82,9.6,472535
+230,Dragon Age: Resurgence,Simulation,Ubisoft,Bethesda,2023-07-24,Xbox Series X,63.24,8.5,247997
+231,ElderQuest,Sports,Capcom,Blizzard,2023-05-03,Xbox Series X,60.65,9.2,493533
+232,Apex Legends 2,MOBA,Ubisoft,Square Enix,2020-10-27,Xbox Series X,69.99,8.0,101347
+233,Legends of Arcadia,Strategy,Activision,Ubisoft,2020-06-09,Mobile,69.83,8.3,315931
+234,Legends of Arcadia,Adventure,Activision,Ubisoft,2019-05-03,Nintendo Switch,47.77,8.0,302632
+235,Phantom Ops,RPG,Electronic Arts,Ubisoft,2021-11-25,PS5,58.45,6.8,341585
+236,CyberStrike,Sports,Riot Games,Capcom,2022-09-02,Xbox Series X,67.24,8.9,210735
+237,Legends of Arcadia,Simulation,Activision,Ubisoft,2018-06-12,All Platforms,62.48,7.1,27431
+238,Galaxy Conquest,Sports,Capcom,Square Enix,2021-11-10,All Platforms,32.37,6.1,328825
+239,ElderQuest,Strategy,Activision,Electronic Arts,2023-08-09,Xbox Series X,42.53,8.6,199555
+240,Apex Legends 2,Simulation,Electronic Arts,Bethesda,2020-02-15,Xbox Series X,26.46,6.7,127720
+241,Vortex Arena,Strategy,Blizzard,Square Enix,2021-12-08,PS5,67.7,9.8,54153
+242,CyberStrike,Sports,Capcom,Bethesda,2022-09-25,Xbox Series X,50.31,9.8,273512
+243,Mystic Wars,MOBA,Electronic Arts,Square Enix,2023-05-05,PS5,31.43,9.7,425640
+244,Starborne,Strategy,Bethesda,Ubisoft,2018-07-11,All Platforms,53.59,7.5,379504
+245,BattleForge,Simulation,Bethesda,Electronic Arts,2018-10-27,Xbox Series X,50.91,6.1,181076
+246,CyberStrike,Simulation,Epic Games,Valve,2022-01-02,Mobile,37.91,9.7,482085
+247,Vortex Arena,Strategy,Ubisoft,Blizzard,2022-10-24,Mobile,25.68,7.7,224724
+248,BattleForge,Sports,Riot Games,Activision,2020-05-15,All Platforms,53.58,9.9,379899
+249,Quantum Rift,Battle Royale,Valve,Electronic Arts,2018-12-06,PS5,46.02,9.9,61985
+250,Starborne,Sports,Square Enix,Valve,2023-10-08,Mobile,58.62,9.4,317213
+251,ShadowRealm,Strategy,Electronic Arts,Riot Games,2021-02-27,PS5,46.01,7.2,319470
+252,Quantum Rift,FPS,Blizzard,Square Enix,2023-12-05,Mobile,62.61,7.5,113737
+253,Dragon Age: Resurgence,Strategy,Square Enix,Riot Games,2019-06-16,Mobile,47.6,9.4,217133
+254,Vortex Arena,MOBA,Blizzard,Valve,2019-11-26,PS5,48.05,7.3,159470
+255,Mystic Wars,Strategy,Square Enix,Electronic Arts,2022-01-18,Nintendo Switch,63.83,6.7,234465
+256,Legends of Arcadia,Strategy,Electronic Arts,Square Enix,2020-03-06,Mobile,40.17,8.2,55861
+257,Infinite Odyssey,MOBA,Valve,Activision,2019-05-05,Xbox Series X,26.7,9.7,343041
+258,Starborne,Strategy,Square Enix,Ubisoft,2018-04-16,All Platforms,21.44,8.8,217977
+259,Dragon Age: Resurgence,Adventure,Electronic Arts,Square Enix,2023-03-13,Nintendo Switch,57.76,8.3,132118
+260,Titanfall: Frontiers,FPS,Activision,Square Enix,2023-10-05,PS5,51.02,6.4,335721
+261,Dragon Age: Resurgence,RPG,Valve,Electronic Arts,2022-05-13,Nintendo Switch,55.2,8.5,201713
+262,Vortex Arena,FPS,Capcom,Electronic Arts,2021-11-17,PC,30.65,10.0,14078
+263,Quantum Rift,Strategy,Blizzard,Valve,2022-08-18,PC,26.82,6.6,423219
+264,Quantum Rift,Adventure,Bethesda,Epic Games,2021-11-08,Mobile,20.73,8.1,329912
+265,ShadowRealm,Sports,Ubisoft,Square Enix,2022-04-13,Mobile,37.53,9.5,56047
+266,Dragon Age: Resurgence,Strategy,Bethesda,Blizzard,2022-01-19,Xbox Series X,49.5,9.0,338770
+267,Specter Saga,Adventure,Valve,Square Enix,2022-11-26,All Platforms,39.61,8.8,324804
+268,Quantum Rift,MOBA,Capcom,Valve,2021-07-03,Nintendo Switch,41.87,8.8,240458
+269,ShadowRealm,Adventure,Blizzard,Bethesda,2021-08-24,PC,65.21,7.4,448002
+270,Titanfall: Frontiers,MOBA,Capcom,Riot Games,2022-03-08,Mobile,37.41,7.2,400141
+271,Specter Saga,Battle Royale,Square Enix,Ubisoft,2019-06-02,All Platforms,45.7,9.2,220048
+272,CyberStrike,RPG,Blizzard,Epic Games,2020-02-08,Nintendo Switch,59.18,9.2,241293
+273,Legends of Arcadia,MMORPG,Square Enix,Activision,2020-07-27,Mobile,39.83,9.5,122832
+274,ShadowRealm,Adventure,Electronic Arts,Activision,2020-08-13,Mobile,51.1,9.7,397550
+275,Vortex Arena,Simulation,Valve,Activision,2021-06-13,PC,63.12,8.0,130150
+276,Warfront Legends,Strategy,Electronic Arts,Electronic Arts,2021-06-01,PC,67.48,8.0,162087
+277,Legends of Arcadia,FPS,Epic Games,Activision,2019-05-06,Mobile,27.35,9.2,38320
+278,Quantum Rift,MMORPG,Capcom,Ubisoft,2020-08-24,PS5,66.33,8.6,332025
+279,ElderQuest,FPS,Square Enix,Riot Games,2020-01-19,Mobile,44.61,8.8,95827
+280,Apex Legends 2,Battle Royale,Activision,Activision,2022-10-16,All Platforms,32.91,9.2,369359
+281,Vortex Arena,MMORPG,Electronic Arts,Square Enix,2021-04-08,Mobile,42.96,9.6,424505
+282,Phantom Ops,MMORPG,Epic Games,Square Enix,2020-04-01,Xbox Series X,69.0,7.4,264931
+283,ShadowRealm,FPS,Riot Games,Electronic Arts,2023-03-27,Xbox Series X,44.63,7.5,401605
+284,Infinite Odyssey,MOBA,Bethesda,Ubisoft,2019-03-27,Xbox Series X,36.44,6.4,423899
+285,CyberStrike,FPS,Blizzard,Riot Games,2023-04-16,PS5,51.67,8.3,411845
+286,ChronoShift,MOBA,Epic Games,Epic Games,2023-11-09,PS5,32.01,6.1,328694
+287,Titanfall: Frontiers,Battle Royale,Valve,Valve,2019-01-13,Mobile,23.79,7.9,29826
+288,ShadowRealm,Strategy,Electronic Arts,Riot Games,2023-11-11,Xbox Series X,26.44,8.2,105734
+289,Dragon Age: Resurgence,Sports,Valve,Valve,2020-11-13,PS5,26.4,7.1,162702
+290,Neon Riders,MOBA,Bethesda,Bethesda,2021-02-25,PC,27.6,8.4,234834
+291,Starborne,Battle Royale,Activision,Valve,2019-09-21,Mobile,26.94,6.1,182235
+292,Phantom Ops,Simulation,Capcom,Blizzard,2022-10-10,All Platforms,52.04,6.1,103511
+293,Neon Riders,Battle Royale,Capcom,Square Enix,2023-02-04,Nintendo Switch,29.09,9.3,464651
+294,Titanfall: Frontiers,FPS,Valve,Ubisoft,2019-05-27,Mobile,37.28,7.4,278797
+295,Neon Riders,FPS,Square Enix,Capcom,2018-09-06,Nintendo Switch,64.84,6.5,164033
+296,ChronoShift,Sports,Activision,Electronic Arts,2018-09-07,Xbox Series X,43.7,8.1,86941
+297,Phantom Ops,Battle Royale,Capcom,Blizzard,2021-08-05,Nintendo Switch,53.38,9.1,210209
+298,Phantom Ops,RPG,Activision,Valve,2020-01-11,Xbox Series X,28.62,6.9,300806
+299,ShadowRealm,Strategy,Epic Games,Activision,2021-01-13,PC,29.61,8.5,103818
+300,Warfront Legends,FPS,Activision,Ubisoft,2021-09-26,Nintendo Switch,22.04,6.3,454662
